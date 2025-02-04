@@ -31,7 +31,23 @@ Os dados utilizados neste projeto cobrem o período de 2018 a 2020 e incluem:
 
 O repositório está organizado da seguinte forma:
 
-/PowerBI-dashboard-petshop/
+```
+/repositorio/
+│
+├── /Vendas/ # Pasta contendo os dados brutos e processados
+│ ├── raw/ # Dados brutos originais
+│ └── processed/ # Dados limpos e preparados para análise
+│
+├── /Clientes/ # Pasta contendo os arquivos do Power BI
+│ ├── petshop_dashboard.pbix # Arquivo principal do Power BI
+│ └── README.md # Instruções específicas para o Power BI
+│
+├── /images/ # Pasta contendo imagens
+│ └── PowerBI.png # Logo do Power BI
+│
+│
+└── README.md # Este arquivo
+```
 
 ## Como Usar
 
