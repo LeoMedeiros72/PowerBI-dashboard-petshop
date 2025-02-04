@@ -10,7 +10,7 @@ O objetivo deste projeto é analisar os dados históricos de um petshop para ide
 
 Aqui está uma captura de tela do dashboard interativo criado no Power BI:
 
-![Logo do Power BI](images/PowerBI.png)
+![Logo do Power BI](PowerBI-dashboard-petshop/imagens/PowerBI.png)
 
 ## Dados Utilizados
 
