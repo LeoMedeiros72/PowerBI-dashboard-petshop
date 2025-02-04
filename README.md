@@ -6,6 +6,12 @@ Este repositório contém uma análise de dados de um petshop que armazenou info
 
 O objetivo deste projeto é analisar os dados históricos de um petshop para identificar tendências, padrões e insights que possam ajudar na tomada de decisões estratégicas. Os dados incluem informações sobre vendas, serviços, clientes e outros aspectos relevantes do negócio.
 
+## Dashboard de Análise
+
+Aqui está uma captura de tela do dashboard interativo criado no Power BI:
+
+![Dashboard do Petshop](images/dashboard.png)
+
 ## Dados Utilizados
 
 Os dados utilizados neste projeto cobrem o período de 2018 a 2020 e incluem:
