@@ -38,3 +38,7 @@ O repositório está organizado da seguinte forma:
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop.git
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
