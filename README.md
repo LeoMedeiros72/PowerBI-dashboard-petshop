@@ -31,4 +31,4 @@ O repositório está organizado da seguinte forma:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/petshop-analysis.git
+   git clone https://github.com/LeoMedeiros72/PowerBI-dashboard-petshop.git
